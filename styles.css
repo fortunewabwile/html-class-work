@@ -1,0 +1,48 @@
+#orangeDiv{
+    
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+#logoImage{
+    width: 6%;
+}
+#headerDiv{
+    background:linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(250, 81, 4, 0.4) 65%);;
+    height: 90vh;
+}
+
+#buttonsDiv{
+    margin-top: 10%;
+}
+
+body{
+    font-size: large;
+}
+
+
+.roboto-headings {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+#heroDiv{
+    padding-top: 5%;
+    width: 70%;
+    text-align: center;
+}
+
+#imagesDiv{
+    display: flex;
+    justify-content: space-around;
+}
+
+nav{
+    border-bottom: 1px solid black;
+    padding: 1.5%;
+}
